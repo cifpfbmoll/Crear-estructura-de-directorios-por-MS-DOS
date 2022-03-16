@@ -1,12 +1,12 @@
-# Crear estructura de directorios
+# 📄Crear estructura de directorios
 
-## INTRUCCIÓN
+## 🎯INTRUCCIÓN
 
 
 
  El ejercicio se trabajará de manera autónoma en la clase de hoy y se trata de crear mediante la línea de comandos de MS-DOS una estructura de directorios que represente la organización de contenido del menú de navegación de la web del centro: [http://www.cifpfbmoll.eu](http://www.cifpfbmoll.eu/)
 
-## PASOS A SEGUIR
+## 🌏PASOS A SEGUIR
 
 1. Me ubico en el escritorio del mi usuario, en este caso: `C:\Users\lisb3\Desktop>` 
 2. Ya ubicada en este directorio creo la Carpeta en la que creare la estructura de directorios de la web del CIFP Francesc de Borja Moll
